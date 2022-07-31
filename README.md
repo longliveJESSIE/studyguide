@@ -1,0 +1,5 @@
+- 结合个人经验推荐以下快速入门的学习路径：
+- google是最快的老师，关于统计和生物信息相关软件，可以在[biostar](https://www.biostars.org/info/about/)和[stackoverflow](https://stackoverflow.com/)上找到结果
+  - R
+    - r for beginners
+      - 快速看一遍，了解r的基本的字符串操作、dataframe、list，以及简单的循环判断等结构即可
