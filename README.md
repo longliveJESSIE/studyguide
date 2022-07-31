@@ -1,5 +1,18 @@
 - 结合个人经验推荐以下快速入门的学习路径：
 - google是最快的老师，关于统计和生物信息相关软件，可以在[biostar](https://www.biostars.org/info/about/)和[stackoverflow](https://stackoverflow.com/)上找到结果
-  - R
-    - r for beginners
-      - 快速看一遍，了解r的基本的字符串操作、dataframe、list，以及简单的循环判断等结构即可
+- R
+  - **r for beginners**
+    - 快速看一遍，了解r的基本的字符串操作、dataframe、list，以及简单的循环判断等结构即可
+  - **r data science**
+    - 比起r的默认语法，更推荐使用tidyverse进行编码，tidyverse中的dylyr以及ggplot2是最常用的工具，前者用于数据清洗，后者用于画图
+  - **统计建模与r软件**
+    - 这一套书主要是各种统计建模方法的r实现，搭配这本书复习一下基础的统计
+  - 推荐最初上手时rstudio作为ide，后面熟练了可以改为vscode或者在服务器直接用原生r。
+- linux
+  - basics
+    - 一些pdf文件，有最简单的linux命令，这个可以找我要
+  - awk/sed
+    - daqi写的awk/sed文档，同样也找我要
+    - awk and sed
+      - 简单看看
+  - 如果没有服务器条件折腾，可以用[lanqiao实验楼](https://www.lanqiao.cn/courses/1)中的linux环境，他们的教程也可以看一看
