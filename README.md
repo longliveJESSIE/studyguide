@@ -16,3 +16,10 @@
     - awk and sed
       - 简单看看
   - 如果没有服务器条件折腾，可以用[lanqiao实验楼](https://www.lanqiao.cn/courses/1)中的linux环境，他们的教程也可以看一看
+- 生物信息基础
+  - [北京大学mooc](https://www.bilibili.com/video/BV1hx411U7cL/?vd_source=8c727e5e5b74a4ae9163c014cb852588)
+  - 各种测序原理，如果英语没什么问题可以之间看官网
+- 进化相关知识
+  - [北大顾红雅生物进化](https://www.bilibili.com/video/av4459812/?vd_source=8c727e5e5b74a4ae9163c014cb852588)
+  - Douglas Futuyma evolution
+  - population genetics ： 等待补充。。。
